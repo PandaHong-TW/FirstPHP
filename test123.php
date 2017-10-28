@@ -8,5 +8,7 @@
 
 class test123
 {
-
+    public function __construct() {
+        
+    }
 }
