@@ -1,5 +1,5 @@
 <?php
-    $arr = array('我是1號','<a href="http://www.google.com" target="_blank">2小波</a>','3拉拉','4迪西');
+    $arr = array('我是丁丁','1小波','2拉拉','3迪西');
 
     foreach($arr as $v){
         echo $v.'<br>';
