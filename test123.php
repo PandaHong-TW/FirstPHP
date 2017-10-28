@@ -9,6 +9,6 @@
 class test123
 {
     public function __construct() {
-        
+        echo '123';
     }
 }
